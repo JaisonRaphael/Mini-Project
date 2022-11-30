@@ -12,8 +12,8 @@ So we are just trying to predict the selling price with the available and qualit
 
 ## CODE:
 ```
-NAME: VISHAL GOWTHAMAN K R
-REG NO: 212221230123
+NAME: JAISON RAPHAEL.V
+REG NO: 212221230038
 ```
 ```
 import pandas as pd
